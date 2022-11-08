@@ -46,9 +46,11 @@
   
 [![Paola Albarnaz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palbarnaz&theme=tokyonight)](https://git.io/praveenscience)
 
-|  |  |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palbarnaz&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=palbarnaz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+-----
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palbarnaz&theme=tokyonight) ![Github Stars](https://github-readme-stats.vercel.app/api?username=palbarnaz&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+
 
 
 <br>
