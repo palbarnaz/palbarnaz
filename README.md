@@ -44,7 +44,6 @@
 <br>
   <br>
   
-[![Paola Albarnaz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palbarnaz&theme=tokyonight)](https://git.io/praveenscience)
 
 -----
 <br>
