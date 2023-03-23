@@ -17,7 +17,7 @@
 
 - 🏫: I'm a student of the GrowDev starter program
 
-- 🌱: I'm currently learning HTML, CSS, other front-end stuffs and git.
+- 🌱: I'm currently learning HTML, CSS, JS, TS, REACTJS other front-end stuffs and git.
 
 - ⚡: Hobbies: Reading a good book, music and netflix
 
