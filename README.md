@@ -20,7 +20,7 @@ class SobreMim extends Desenvolvedor {
   nome = "Paola Albarnaz";
   area = "Desenvolvedora full stack";
   trabalho = "Growdev";
-  local = "Cmapo Bom - RS";
+  local = "Campo Bom - RS";
 }
 
 ```
