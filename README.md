@@ -9,14 +9,23 @@
 <div size='20px'> Hi! My name is Paola. Thank You for taking the time to view my GitHub Profile &#10024;
 </div>
 
-<br>
-
-
-- 😄: Pronouns: she/her
-
-
-
 <br/>
+<br/>
+<br/>
+
+```js
+import Desenvolvedor from "@palbarnaz";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Paola Albarnaz";
+  area = "Desenvolvedora full stack";
+  trabalho = "Growdev";
+  local = "Cmapo Bom - RS";
+}
+
+```
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
