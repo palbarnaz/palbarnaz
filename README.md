@@ -11,15 +11,6 @@
 
 <br>
 
-<h2> About Me &#129499 </h2>
-
-
-
-- 🏫: I'm a student of the GrowDev starter program
-
-- 🌱: I'm currently learning HTML, CSS, JS, TS, REACTJS, JAVA, other front-end and back-end stuffs and git.
-
-- ⚡: Hobbies: Reading a good book, music and netflix
 
 - 😄: Pronouns: she/her
 
